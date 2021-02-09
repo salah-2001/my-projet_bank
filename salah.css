@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+
+.p-account
+{
+    font-size: 36px;
+    font-family: 'Big Shoulders Display', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.lable-email_password
+{
+    font-family: 'Indie Flower', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;800&family=Sriracha&display=swap');
+.credit_div
+{
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Sriracha', cursive;
+    font-size: 19px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=Londrina+Solid:wght@900&display=swap');
+.cre_div
+{
+    font-family: 'Coda Caption', sans-serif;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}

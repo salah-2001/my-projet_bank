@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+
+.p-account
+{
+    font-size: 36px;
+    font-family: 'Big Shoulders Display', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.lable-email_password
+{
+    font-family: 'Indie Flower', cursive;
+}
